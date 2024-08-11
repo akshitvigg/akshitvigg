@@ -2,13 +2,13 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Akshit Vig</h1>
+<h1 align="center">Hello World 👋, I'm Akshit Vig</h1>
 <h3 align="center">Sophomore | Tech Enthusiast | Passionate About Coding and Innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif"/>
 
 <p align="left"> <a href="https://twitter.com/akshitvig4" target="blank"><img src="https://img.shields.io/twitter/follow/akshitvig4?logo=twitter&style=for-the-badge" alt="akshitvig4" /></a> </p>
 
-- 🌱 I’m currently learning **ML,MERN**
+- 🌱 I’m currently learning **ML,MERN,JAPANESE**
 
 - 💬 Ask me about **Java,Python,React,ARP Spoofing**
 
