@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **ML,MERN,JAPANESE**
 
-- 💬 Ask me about **Java,Python,React,ARP Spoofing**
-
 - 📫 How to reach me **akshitvig48@gmail.com**
 
 - ⚡ Fun fact **I think I m Funny**
