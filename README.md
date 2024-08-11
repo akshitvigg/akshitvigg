@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoder-nian%2Fcoder-nian&psig=AOvVaw3GTVwjkanIRNn0KxqndbgS&ust=1723484361999000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMi2_Oi97YcDFQAAAAAdAAAAABAJ)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"/>
 <h1 align="center">Hi 👋, I'm Akshit Vig</h1>
 <h3 align="center">Sophomore | Tech Enthusiast | Passionate About Coding and Innovation</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
