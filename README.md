@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcoder-nian%2Fcoder-nian&psig=AOvVaw3GTVwjkanIRNn0KxqndbgS&ust=1723484361999000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMi2_Oi97YcDFQAAAAAdAAAAABAJ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akshit Vig</h1>
 <h3 align="center">Sophomore | Tech Enthusiast | Passionate About Coding and Innovation</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&psig=AOvVaw34JuDm8vNCKQzImlNUIDI-&ust=1723484099752000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICst-q87YcDFQAAAAAdAAAAABAh"/>
+<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
 
 <p align="left"> <a href="https://twitter.com/akshitvig4" target="blank"><img src="https://img.shields.io/twitter/follow/akshitvig4?logo=twitter&style=for-the-badge" alt="akshitvig4" /></a> </p>
 
