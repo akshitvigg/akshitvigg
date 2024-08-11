@@ -1,10 +1,10 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Coding"  height = "500" width="1000" />
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Coding"  height = "300" width="1000" />
 
 
 
 <h1 align="center">Hi 👋, I'm Akshit Vig</h1>
 <h3 align="center">Sophomore | Tech Enthusiast | Passionate About Coding and Innovation</h3>
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif"/>
 
 <p align="left"> <a href="https://twitter.com/akshitvig4" target="blank"><img src="https://img.shields.io/twitter/follow/akshitvig4?logo=twitter&style=for-the-badge" alt="akshitvig4" /></a> </p>
 
