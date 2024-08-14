@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshitvig4" target="blank"><img src="https://img.shields.io/twitter/follow/akshitvig4?logo=twitter&style=for-the-badge" alt="akshitvig4" /></a> </p>
 
-- 🌱 I’m currently learning **ML,MERN,JAPANESE**
+- 🌱 I’m currently learning **ML,MERN,Web3,JAPANESE**
 
 - 📫 How to reach me **akshitvig48@gmail.com**
 
