@@ -1,29 +1,63 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" alt="Coding"  height = "300" width="1000" />
 
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Vineet%F0%9F%91%8B;Let's+Connect!"/>
+</div>
 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vineet_codes)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vineetagarwal2004/)
+![border-seperator](assets/borderseparator.gif) 
+  
+![](https://komarev.com/ghpvc/?username=vineeTagarwaL-code)
+## About Vineet
+<p style="font-size:7px;">
+Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
+</p>
+<p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary. </p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<h1 align="center">Hello World 👋, I'm Akshit Vig</h1>
-<h3 align="center">Sophomore | Tech Enthusiast | Passionate About Coding and Innovation</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/lucaszcai/lucaszcai/master/programminggif1.gif"/>
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,python,c&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,netlify&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
+</tr>
+</table>
 
-<p align="left"> <a href="https://twitter.com/akshitvig4" target="blank"><img src="https://img.shields.io/twitter/follow/akshitvig4?logo=twitter&style=for-the-badge" alt="akshitvig4" /></a> </p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-- 🌱 I’m currently learning **ML,MERN,Web3,JAPANESE**
+## Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=vineeTagarwaL-code&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **akshitvig48@gmail.com**
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-- ⚡ Fun fact - **I use Arch :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akshitvig4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshitvig4" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akshit-vig-a56377303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshit vig" height="30" width="40" /></a>
-<a href="https://instagram.com/akshit_vig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshit_vig" height="30" width="40" /></a>
+## Github Stats
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=vineetagarwal-code&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://streak-stats.demolab.com/?user=vineetagarwal-code&theme=holi-theme">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshit-vig01&show_icons=true&locale=en" alt="akshit-vig01" /></p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
+														 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshit-vig01&" alt="akshit-vig01" /></p>
+
+## Latest Blogs
+
+<!-- BLOGPOSTS:START -->
+ - 🌮 [React : Creation](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2)
+ - 🐋 [Docker : Containerize your react app](https://vineetagarwal.hashnode.dev/containerize-your-react-app-easily)
+
+<!-- BLOGPOSTS:END -->
