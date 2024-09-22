@@ -1,8 +1,6 @@
 
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Vineet%F0%9F%91%8B;Let's+Connect!"/>
-</div>
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=4000&pause=&color=00EDF7&width=435&lines=Hi+%2C+I'm+Akshit+%F0%9F%91%8B+;Lets's+Connect!" alt="Typing SVG" /></a>
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vineet_codes)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vineetagarwal2004/)
 ![border-seperator](assets/borderseparator.gif) 
@@ -53,11 +51,3 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
 														 
 
-
-## Latest Blogs
-
-<!-- BLOGPOSTS:START -->
- - 🌮 [React : Creation](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2)
- - 🐋 [Docker : Containerize your react app](https://vineetagarwal.hashnode.dev/containerize-your-react-app-easily)
-
-<!-- BLOGPOSTS:END -->
