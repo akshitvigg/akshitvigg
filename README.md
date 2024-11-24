@@ -30,7 +30,7 @@ Just a curious mind who loves building stuff and solving problems
 </tr>
 <tr>
 	<td><img src = "https://skillicons.dev/icons?i=linux,docker&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,githubactions&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,postman,githubactions&theme=dark"></td>
 </tr>
 </table>
 
