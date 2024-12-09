@@ -21,7 +21,7 @@ Just a curious mind who loves building stuff and solving problems
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,mongodb,typescript,flask"></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,mongodb,typescript,flask,postgresql"></td>
 		<td><img src = "https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"></td>
 </tr>
 <tr>
