@@ -21,26 +21,20 @@ Just a curious mind who loves building stuff and solving problems
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-	<td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,nextjs&theme=dark"></td>
+	<td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,mongodb,flask,postgresql,nextjs,prisma"></td>
 	<td><img src="https://skillicons.dev/icons?i=java,python,c,cpp,typescript&theme=dark"></td>
 </tr>
 <tr>
-	<td><strong>Backend Development</strong></td>
+	<td><strong>Cybersecurity&Cloud</strong></td>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src="https://skillicons.dev/icons?i=prisma,mongodb,postgresql&theme=dark"></td>
-	<td><img src="https://skillicons.dev/icons?i=git,vscode,github,vim,postman&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cybersecurity & Cloud</strong></td>
-	<td><strong>Cloud Tools</strong></td>
-</tr>
-<tr>
 	<td><img src="https://skillicons.dev/icons?i=linux,docker&theme=dark"></td>
-	<td><img src="https://skillicons.dev/icons?i=githubactions&theme=dark"></td>
+	<td><img src="https://skillicons.dev/icons?i=git,vscode,github,vim,postman,githubactions&theme=dark"></td>
 </tr>
 </table>
+
+
 
 
 
