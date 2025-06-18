@@ -22,7 +22,7 @@ Just a curious mind who loves building stuff and solving problems
 </tr>
 <tr>
 	<td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,mongodb,flask,postgresql,nextjs,prisma"></td>
-	<td><img src="https://skillicons.dev/icons?i=java,python,c,cpp,typescript&theme=dark"></td>
+	<td><img src="https://skillicons.dev/icons?i=java,python,c,cpp,typescript,solidity&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cybersecurity&Cloud</strong></td>
